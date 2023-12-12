@@ -2,58 +2,15 @@
 
 **Learnweb3 12-days Challnenge Day One**
 
-## Contract Address
+##Description
 
-https://book.getfoundry.sh/
+Write a smart contract that when called, returns the string:
 
-## Usage
+‘Ho, Ho, Ho, Merry Christmas!’
 
-### Build
+**Contract Address**   0xeF67Ef17b49f34ce7Be66b1643C0c4E520d56c9B
 
-```shell
-$ forge build
-```
+**Sepolia Link**
+https://sepolia.etherscan.io/tx/0x849aca0c45ac7726f349fc9f6d3280c6fcc71c8db0b9b338d4a219ef6d2d565f
 
-### Test
 
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
