@@ -2,7 +2,7 @@
 
 **Learnweb3 12-days Challnenge Day One**
 
-##Description
+**Description**
 
 Write a smart contract that when called, returns the string:
 
